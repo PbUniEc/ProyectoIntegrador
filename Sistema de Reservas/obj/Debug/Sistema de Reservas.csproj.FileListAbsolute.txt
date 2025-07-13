@@ -1,0 +1,11 @@
+D:\Universidad\Programas de Programación\Visual Studio\Sistema de Reservas\obj\Debug\Sistema de Reservas.csproj.AssemblyReference.cache
+D:\Universidad\Programas de Programación\Visual Studio\Sistema de Reservas\obj\Debug\Sistema_de_Reservas.Properties.Resources.resources
+D:\Universidad\Programas de Programación\Visual Studio\Sistema de Reservas\obj\Debug\Sistema_de_Reservas.Views.Login.resources
+D:\Universidad\Programas de Programación\Visual Studio\Sistema de Reservas\obj\Debug\Sistema_de_Reservas.Views.Main_Menu.resources
+D:\Universidad\Programas de Programación\Visual Studio\Sistema de Reservas\obj\Debug\Sistema de Reservas.csproj.GenerateResource.cache
+D:\Universidad\Programas de Programación\Visual Studio\Sistema de Reservas\obj\Debug\Sistema de Reservas.csproj.CoreCompileInputs.cache
+D:\Universidad\Programas de Programación\Visual Studio\Sistema de Reservas\bin\Debug\Sistema de Reservas.exe.config
+D:\Universidad\Programas de Programación\Visual Studio\Sistema de Reservas\bin\Debug\Sistema de Reservas.exe
+D:\Universidad\Programas de Programación\Visual Studio\Sistema de Reservas\bin\Debug\Sistema de Reservas.pdb
+D:\Universidad\Programas de Programación\Visual Studio\Sistema de Reservas\obj\Debug\Sistema de Reservas.exe
+D:\Universidad\Programas de Programación\Visual Studio\Sistema de Reservas\obj\Debug\Sistema de Reservas.pdb
